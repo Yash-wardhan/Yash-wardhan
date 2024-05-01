@@ -2,9 +2,8 @@
 <h3 align="center">Software Engineer With Excellent Problem-Solving Skills And Ability To Perform Well In A Team . Passionate About Coding And How To Code Efficiently.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-wardhan&label=Profile%20views&color=0e75b6&style=flat" alt="yash-wardhan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-wardhan" alt="yash-wardhan" /></a> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yash-wardhan&label=Profile%20views&color=0e75b6&style=flat" alt="yash-wardhan" /> </p>
 
 - 🔭 I’m currently working on [All in one](https://aiallinone.netlify.app/)
 
