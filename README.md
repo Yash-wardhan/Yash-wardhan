@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Hats-off](https://www.hatsoffdigital.com/)
 
-- 🌱 I’m currently learning **ReactJs,NextJs**
+- 🌱 I’m currently learning **ReactJs,NextJs,TailwindCSS,ShadCdn,Nodejs,GENAI,AWS,Python(Django),Flask**
 
 - 👨‍💻 All of my projects are available at [https://ywardhan.netlify.app/](https://ywardhan.netlify.app/)
 
